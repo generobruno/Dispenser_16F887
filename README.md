@@ -3,6 +3,8 @@
 Este trabajo práctico consiste en un “Dosificador controlado de alcohol en gel”. Utilizaremos un microcontrolador 16F887 para 
 realizar las funcionalidades principales del sistema.
 
+![image](https://github.com/generobruno/Dispenser_16F887/assets/36767810/242de88e-c80a-4a20-873a-824ac121792d)
+
 El sistema en cuestión consta de un dispenser de alcohol en gel con una capacidad fija, 
 y un sensor de proximidad que detecta cuando la mano de un usuario se acerca, entregando una dosis de alcohol en gel para desinfectar. 
 Luego de cargar el dispensador, la persona que administre el dispositivo debe de informarle al PIC, mediante un teclado matricial, cuál es la 
